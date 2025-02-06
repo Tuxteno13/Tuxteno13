@@ -1,8 +1,10 @@
 <h1 align="center">Hola 👋  soy Julian / Tuxteno13 ✨ </h1> 
 
 <div align="center"> 
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
+
+![Fondo](https://github.com/user-attachments/assets/6c30507a-dc7e-463d-a40b-12e5b78cad1d)
+
+
 </div>
 <!--Intro start-->
 
